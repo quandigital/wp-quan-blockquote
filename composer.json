@@ -1,0 +1,9 @@
+{
+    "name": "quandigital/blockquote",
+    "description": "WordPress plugin to add a semantic blockquote via shortcode",
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
